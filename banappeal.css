@@ -1,0 +1,39 @@
+body
+{
+    background-color: black;
+    color: cornsilk;
+    font-family: 'Rowdies', cursive;
+}
+
+#container
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#send
+{
+    margin-top: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 32px;
+}
+
+a:link
+{
+    color: cornsilk;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: cornsilk;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: lightcyan;
+    text-decoration: none;
+}

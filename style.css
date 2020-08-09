@@ -1,0 +1,64 @@
+body
+{
+    background-color: black;
+    color: cornsilk;
+    font-family: 'Rowdies', cursive;
+}
+
+#container
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#lipton
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: xx-large;
+}
+
+#info
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 55px;
+}
+
+#links
+{
+    text-align: center;
+    margin-top: 70px;
+    font-size: x-large;
+}
+
+#footer
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 155px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+a:link
+{
+    color: cornsilk;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: cornsilk;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: lightcyan;
+    text-decoration: none;
+}
